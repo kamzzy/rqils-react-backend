@@ -2,6 +2,7 @@
 > A greeting api that renders random greetings built for learning purposes.
 
  ***
+# [Link to the frontend app](https://github.com/kamzzy/rails-react-frontend/tree/features)
 <!-- ### [Deployed version](https://arcane-mountain-22736.herokuapp.com/)
 ### [Demo](https://www.loom.com/share/264e6dfc03ec4d6ba608c6d549331072) -->
 ## Built With
